@@ -1,5 +1,5 @@
 function [ density ] = geometry_adaptive_kernel( coordinates, img_sz, beta )
-% author: sheperd, wygamle@pku.edu.cn
+% coordinates: a matrix of n*2, in which each row stands for a point with x and y
 
 if ~exist('beta','var')
     beta = 0.3;

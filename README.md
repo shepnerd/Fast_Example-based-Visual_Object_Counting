@@ -10,4 +10,15 @@ This is code for fast visual object counting via example-based density estimatio
   organization={IEEE}
 }
 
-When you use the code, please cite the above paper.
+@article{wang2018manifold,
+  title={Manifold-based visual object counting},
+  author={Wang, Yi and Zou, Yuexian and Wang, Wenwu},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={7},
+  pages={3248--3263},
+  year={2018},
+  publisher={IEEE}
+}
+
+When you use the code, please cite the above papers.
